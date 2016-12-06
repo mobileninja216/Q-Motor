@@ -1,0 +1,1 @@
+ const unsigned char Pods_QMotorTraderVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_QMotorTrader  PROJECT:Pods-1" "\n"; const double Pods_QMotorTraderVersionNumber __attribute__ ((used)) = (double)1.;

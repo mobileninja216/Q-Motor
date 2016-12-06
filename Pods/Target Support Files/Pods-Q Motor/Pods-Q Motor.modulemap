@@ -1,0 +1,6 @@
+framework module Pods_Q_Motor {
+  umbrella header "Pods-Q Motor-umbrella.h"
+
+  export *
+  module * { export * }
+}

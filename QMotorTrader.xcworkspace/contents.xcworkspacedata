@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:QMotorTrader/Sellertype.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Bodytype.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/About.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Cars.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Garage.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Model.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Year.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Cars_Image.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Plates.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Users.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Slider.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Setting.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Cars_Sellingpoint.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Make.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Trim.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Colour.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Transmission.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Packages.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Cars_Featured.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Sellingpoint.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Dealers.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader/Mileage.swift">
+   </FileRef>
+   <FileRef
+      location = "group:QMotorTrader.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

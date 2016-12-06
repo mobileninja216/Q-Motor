@@ -1,0 +1,281 @@
+homeTitle = "كيو موتر";
+
+connectionless = "يرجى التحقق من الإتصال بالإنترنت";
+warning = "تنويه";
+emptyFields = "يرجى تعبئة الحقول الفارغة";
+error = "خطأ";
+success = "تمت";
+wellDone = "أحسنت، لقد نجحت العملية";
+dataIsEmpty = "لم ترجع أي بيانات من جهة الخادم";
+unknownError = "خطأ غير معروف";
+
+selectMake = "اختر الشركة المصنعة للسيارة";
+selectModel = "اختر موديل السيارة";
+selectTrim = "اختر الموديل الفرعي للسيارة";
+selectHomeYear = "اختر سنة الصنع";
+selectYear = "السنة";
+selectMileage = "المسافة التي قطعتها السيارة";
+selectBodyType = "هيكل السيارة";
+selectTransmission = "نوع الجير";
+selectColour = "اللون";
+saveCar = "حفظ";
+dealer = "البائع";
+qar = "ر.ق ";
+priceLabel = "السعر";
+colourLabel = "اللون";
+useDistanceLabel = "المسافة المقطوعة";
+theBackLabel = "هيكل السيارة";
+carTypeLabel = "نوع الجير";
+
+shareYourNote = "انشر ملاحظاتاتك عن السيارة";
+loginToFacebook = "لم تقم بتسجيل الدخول إلى حساب الفيسبوك الخاص بك.";
+shareOnFacebook = "انشر على فيسبوك";
+loginToTwitter = "لم تقم بتسجيل الدخول إلى حساب تويتر الخاص بك.";
+shareOnTwitter = "انشر على تويتر";
+moreSocial = "المزيد";
+closeSocialList = "إغلاق";
+cancleButton = "إلغاء الأمر";
+shareOnWhatsApp = "نشر عل واتس أب";
+notAllowedString = "النص المستخدم للنشر غير مسموج به";
+installWhatsApp = "يجب تثبيت برنامج واتس أب أولا";
+
+highest = "الأكثر";
+lowest = "الأقل";
+
+platesAvailable = "لوحة متاحة";
+enterPlateNumber = "ضع رقم لوحة السيارة هنا";
+plateNumber = "رقم اللوحة";
+price = "السعر";
+
+fullName = "الاسم كاملا";
+email = "البريد الإلكتروني";
+phoneNumber = "رقم الهاتف";
+
+free = "مجاني";
+paid = "مدفوع";
+
+phone1 = "رقم الهاتف ١";
+phone2 = "رقم الهاتف ٢";
+
+done = "انتهى";
+doneMessage = "انتهت العملية";
+
+firstName = "الاسم الأول";
+lastName = "اسم العائلة";
+welcomeLabel = "إنشاء حساب جديد في كيو موتر";
+individual = "شخصي";
+companies = "شركات";
+registerButton = "تسجيل الحساب";
+
+sellerType = "نوع الحساب";
+updateMyProfileTitle = " بياناتي الشخصية";
+editMyProfileDesc = "Updating your email address, phone number or postcode below will not change those details displayed in your advert. To amend any advert details, please go to Manage My Ads.";
+updateMyProfileButton = "تعديل بياناتي";
+
+emailAddressLabel = "البريد الإلكتروني";
+fullNameLabel = "الاسم كاملا";
+sellerTypeLabel = "نوع الحساب";
+phoneNumberLabel = "رقم الهاتف";
+myCarsSoldLabel = "السيارات المباعة";
+numberPlatesLabel = "أرقام السيارات";
+myAdvertLabel = "إدارة الإعلانات";
+myProfileTitle = "ملفي الشخصي";
+
+userNumberPlatesHeaderLabel = "مجموعة أرقام السيارات التي عرضتها للبيع";
+
+settingTitle = "الإعدادات";
+allRightsReservedLabel = "جميع الحقوق محفوظة";
+instagramAccountLabel = "حساب إنستغرام";
+youtubeChannelLabel = "قناة يوتيوب";
+twitterAccountLabel = "حساب تويتر";
+facebookPageLabel = "صفحة فيسبوك";
+saveSessionAfterLoginLabel = "حفظ الجلسة بعد إتمام عملية تسجيل الدخول";
+defaultLanguageLabel = "اللغة الإفتراضية";
+
+findNewUsedCarsLabel = "بحث عن سيارات جديدة ومستخدمة";
+carsAvailableLabel = "ابحث في :value سيارة متاحة";
+dealerCarsAvailableLabel = "سيارة متاحة";
+
+carsInStockLabel = "السيارات المتوفرة حاليا";
+searchCarButton = "بحث";
+zeroQARLabel = ". ر.ق";
+filterTtitle = "بحث متقدم";
+halfMillionQARLabel = "٥٠٠،٠٠٠ ر.ق";
+priceRangeLabel = "السعر";
+
+makeTitle = "الشركة المصنعة";
+makePrompt = "اختر الشركة المصنعة للسيارة";
+modelTitle = "الموديل";
+modelPrompt = "اختر موديل السيارة";
+trimTitle = "الموديل الفرعي";
+trimPrompt = "اختر الموديل الفرعي للسيارة";
+yearTitle = "سنة التصنيع";
+yearPrompt = "اختر سنة تصنيع السيارة";
+mileageTitle = "المسافة المقطوعة";
+mileagePrompt = "اختر المسافة التي قطعتها السيارة";
+colourTitle = "اللون";
+colourPrompt = "اختر لون السيارة";
+transTitle = "نوع الجير";
+transPrompt = "اختر نوع الجير الخاص بالسيارة";
+bodyTypeTitle = "هيكل السيارة";
+bodyTypePrompt = "اختر هيكل السيارة الخارجي";
+
+contactUsTtitle = "اتصل بنا";
+sendMessageButton = "إرسال الرسالة";
+
+carDealersTitle = "معارض السيارات";
+highestButton = "الأعلى";
+lowestButton = "الأقل";
+sortDealersByLabel = "ترتيب المعارض حسب عدد السيارات";
+theEndLabel = "انتهى";
+
+dealerCarsTitile = "سيارات المعرض";
+savedLabel = "تم الحفظ";
+
+homeButton = "الرئيسية";
+buyCarButton = "بحث عن سيارة";
+sellMyCarButton = "بيع موترك";
+rentCarButton = "تأجر سيارة";
+carDealers = "معارض السيارات";
+myAccountButton = "حسابي";
+myProfileButton = "ملفي الشخصي";
+myGarageButton = "السيارات المحفوظة";
+myAdvertsButton = "إدارة الإعلانات";
+numberPlatesButton = "أرقام السيارات";
+contactUsButton = "اتصل بنا";
+settingButton = "الإعدادات";
+aboutQmotoTraderButton = "عن كيو موتر";
+
+buyCarTitile = "بحث عن سيارة";
+
+viewCarTitle = "تفاصيل السيارة";
+shareYourNote = "انشر ملاحظاتك عن السيارة";
+shareOnTwitter = "نشر على تويتر";
+loginToTwitter = "لم تقم بتسجيل الدخول إلى تويتر.";
+shareOnFacebook = "نشر على فيسبوك";
+loginToFacebook = "لم تقم بتسجيل الدخول إلى فيسبوك.";
+moreSocial = "المزيد";
+closeSocialList = "إغلاق";
+socialShare = "نشر على الشبكات الإجتماعية";
+okay = "حسنا";
+
+numberPlatesInQMTLabel = "أرقام لوحات السيارات في كيو موتر";
+callSellerNowLabel = "اتصل بالبائع الآن";
+numberPlatesTitle = "أرقام السيارات";
+
+resultsFoundLabel = "نتيجة تم العثور عليها";
+searchCarTitle = "بحث عن سيارة";
+
+myAccountTitle = "حسابي";
+myAdvertsButton = "إدارة الإعلانات";
+myNumberPlatesButton = "أرقام السيارات";
+myProfileButton = "ملفي الشخصي";
+myGarageButton = "السيارات المحفوظة";
+myAccountLoginButton = "تسجيل دخول";
+myAccountMessageLabel = "يتوجب عليك تسجيل الدخول لتصفح هذه الخدمة";
+
+myGarageTitle = "السيارات المحفوظة";
+deleteFromGarageButton = "حذف";
+
+userNumberPlatesLabel = "قائمة بأرقام لوحات السيارات التي قمت بعرضها للبيع";
+userNumberPlatesTitle = "أرقام السيارات";
+
+controlItemLabel = "حدد إجراء";
+savedCarsLabel = "الإعلانات المحفوظة";
+liveCarsLabel = "الإعلانات المنشورة";
+archivedCarsLabel = "الإعلانات المؤرشفة";
+myAdvertsTitle = "إدارة الإعلانات";
+savedAdvertText = "محفوظة";
+livedvertText = "منشورة";
+archivedAdvertText = "مؤرشفة";
+advertsIDLabel = "ID";
+makeModelLabel = "الشركة المصنعة/الموديل";
+advertsLatestUpdateLabel = "آخر تحديث";
+latestUpdateDelete = "آخر تحديث/حذف";
+advertExpiredAt = "تاريخ الإنتهاء";
+
+sellMyCarTitle = "اعرض سيارتك";
+saveAndContinue = "حفظ واستمرار";
+previous = "السابق";
+packageLabel = "نوع الإعلان";
+vechilceDetailsLabel = "بيانات المركبة";
+uploadImagesLabel = "التقط وارفع الصور";
+uploadImagesButton = "رفع الصور";
+previewLabel = "عرض الإعلان";
+confirmLabel = "التأكيد";
+completeTheCheckout = "إكمال شراء الإعلان";
+
+monthViews = "ظهور لمدة :month شهر";
+socialNetwork = "الشبكات الاجتماعية";
+shareTo = "النشر في";
+specialAds = "إعلان مميز";
+tenTimesMore = "عشر مرات ظهور أكثر";
+photoService = "خدمة التصوير";
+photoServiceSubtitle = "نحن سنأخذ معلومات وصور السياره";
+selectPacakge = "تحديد";
+packageHeaderLabel = "اختيار نوع الإعلان";
+packageTitleLabel = " اختر نوع الإعلان الذي يناسبك";
+packageSubtitleLabel = "رجاء قم باختيار نوع الإعلان الذي يناسبك";
+
+vehicleDetailsLabel = "بيانات المركبة";
+vehicleSubtitleLabel = "رجاء قم بتعبئة بيانات المركبة التي تود بيعها ثم اضغط زر حفظ واستمرار للانتقال للخطوة التالية";
+vehicleDescriptionLabel = "بيانات المركبة التي تود ظهورها في الإعلان";
+
+onlyPreview = "نسخة للعرض فقط";
+listPreviewHeaderLabel = "نسخة العرض";
+listPreviewSubtitleLabel = "هكذا سيظهر إعلانك في صفحة البحث";
+
+nameAndAddressLabel = "الاسم والعنوان";
+dealerTypeKeyLabel = "نوع الحساب";
+vehicleDetailsKeyLabel = "بيانات المركبة";
+expiredAtKeyLabel = "تاريخ الإنتهاء";
+totalPaymentLabel = "المبلغ للدفع";
+packageTypeKeyLabel = "نوع الحساب";
+totalKeyLabel = "إجمالي";
+
+thanksLabel = "شكرا لك";
+messageLabel1 = "شكرا لك لاستخدامك كيو موتر  رقم إعلانك هو :advert_number";
+messageLabel2 = "شكرا لاستخدامك كيو موتر  سنقوم بالاتصال بك لاتمام عملية الدفع ولن يظهر إعلانك حتى اكتمال عملية الدفع لدينا";
+messageLabel3 = "شكرا لاستخدامك كيو موتر  سنقوم بالإتصال بك خلال 24 ساعة لتحديد موعد لاخذ معلومات وصور السيارة";
+backToHome = "العودة للرئيسية";
+
+signinAlertTitle = "تسجيل الدخول السريع";
+signinTitle = "تسجيل دخول";
+welcomeLabel = "أهلا بك في حساب كيو موتر";
+signupButton = "تسجيل جديد";
+newHereLabel = "هل أنت جديد هنا؟";
+forgotPasswordButton = "نسيت كلمة المرور؟";
+signinButton = "تسجيل دخول";
+signupButton = "إنشاء حساب";
+username = "رقم الجوال";
+password = "كلمة المرور";
+
+takePicture = "التقط صورة";
+cameraRoll = "معرض الميديا";
+
+makeYear = "سنة الصنع";
+mileage = "كم قاطع";
+
+noResults = "لم يتم العثور على أي نتائج";
+saveButton = "حفظ";
+
+isSoldYes = "مبيوعة";
+isSoldNo = "غير مبيوعة";
+
+signupAlertTitle = "حساب جديد في كيو موتر";
+year = "السنة";
+km = "كم";
+
+aboutQMotor = "عن كيو موتر";
+
+registrationMessage = "تم إرسال الرقم السري لتفعيل حسابك، استعمله لتدخل إلى حسابك";
+
+deleteImage = "X";
+makeImageDefault = "اجعلها رئيسية";
+uploadedImagesTitle = "تحكم في الصور";
+defaultImage = "الصورة الرئيسية";
+
+registerDone = "لقد قمنا بإرسال كلمة المرور برسالة قصيرة إلى هاتفك٬ رجاء استخدمها لتسجيل دخولك للحساب";
+
+customNumberPlates = "أرقام مميزة";
+signout = "تسجيل خروج";

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StringsTable</key>
+	<string>Root</string>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>General</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>Default Language</string>
+			<key>Key</key>
+			<string>default-language</string>
+			<key>DefaultValue</key>
+			<string>en</string>
+			<key>Titles</key>
+			<array>
+				<string>English</string>
+				<string>Arabic</string>
+			</array>
+			<key>Values</key>
+			<array>
+				<string>en</string>
+				<string>ar</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Save session after login</string>
+			<key>Key</key>
+			<string>login-by-session</string>
+			<key>DefaultValue</key>
+			<true/>
+			<key>TrueValue</key>
+			<string>1</string>
+			<key>FalseValue</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>About</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+			<key>Title</key>
+			<string>© 2015 QMotor Trader</string>
+			<key>Key</key>
+			<string>name</string>
+			<key>DefaultValue</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+			<key>Title</key>
+			<string>All rights reserved</string>
+			<key>Key</key>
+			<string>rights</string>
+			<key>DefaultValue</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+			<key>Title</key>
+			<string>Version</string>
+			<key>Key</key>
+			<string>version</string>
+			<key>DefaultValue</key>
+			<string>1.3.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

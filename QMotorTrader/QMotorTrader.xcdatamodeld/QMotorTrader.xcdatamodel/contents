@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="15C50" minimumToolsVersion="Automatic">
+    <entity name="About" representedClassName=".About" syncable="YES">
+        <attribute name="created_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="desc_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="desc_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sub_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sub_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Bodytype" representedClassName=".Bodytype" syncable="YES">
+        <attribute name="bodytype_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bodytype_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Cars" representedClassName=".Cars" syncable="YES">
+        <attribute name="active" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="advs_duration" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="body_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="bodytype_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bodytype_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="color_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="color_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="colour_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="created_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="exp_date" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="exp_status" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="featured" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="fullname_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fullname_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="header" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="make_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="make_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="make_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mileage" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="model_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="model_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="model_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="order_date" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="package_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="package_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="paid" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pkg_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="pkg_price" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="ref_date" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="sold_date" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="sold_status" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="steps" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="trans_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="transmission_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="transmission_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="trim_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="trim_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="trim_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="user_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="user_t" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="user_type_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="user_type_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="year_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="year_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="year_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Cars_Featured" representedClassName=".Cars_Featured" syncable="YES">
+        <attribute name="active" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="advs_duration" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="body_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="bodytype_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bodytype_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="color_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="color_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="colour_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="created_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="exp_date" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="exp_status" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="featured" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="fullname_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fullname_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="header" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="make_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="make_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="make_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mileage" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="model_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="model_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="model_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="order_date" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="package_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="package_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="paid" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pkg_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="pkg_price" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="ref_date" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="sold_date" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="sold_status" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="steps" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="trans_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="transmission_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="transmission_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="trim_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="trim_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="trim_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="user_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="user_t" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="user_type_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="user_type_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="year_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="year_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="year_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Cars_Image" representedClassName=".Cars_Image" syncable="YES">
+        <attribute name="active" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="cars_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="created_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="primary_photo" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Cars_Sellingpoint" representedClassName=".Cars_Sellingpoint" syncable="YES">
+        <attribute name="cars_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="sellingpoint_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sellingpoint_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Colour" representedClassName=".Colour" syncable="YES">
+        <attribute name="color_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="color_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Dealers" representedClassName=".Dealers" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="agent_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="agent_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cntCars" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fax" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="header" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="logo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mobile" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="notes" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="screen_id" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Garage" representedClassName=".Garage" syncable="YES">
+        <attribute name="active" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="advs_duration" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="body_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="bodytype_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bodytype_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="color_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="color_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="colour_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="created_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="exp_date" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="exp_status" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="featured" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="fullname_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fullname_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="header" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="make_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="make_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="make_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mileage" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="model_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="model_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="model_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="order_date" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="package_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="package_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="paid" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pkg_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="pkg_price" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="ref_date" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="sold_date" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="sold_status" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="steps" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="trans_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="transmission_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="transmission_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="trim_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="trim_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="trim_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="user_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="user_t" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="user_type_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="user_type_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="year_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="year_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="year_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Make" representedClassName=".Make" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="make_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="make_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Mileage" representedClassName=".Mileage" syncable="YES">
+        <attribute name="frm_m" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="to_m" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Model" representedClassName=".Model" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="make_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="model_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="model_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Packages" representedClassName=".Packages" syncable="YES">
+        <attribute name="advs_duration" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="created_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="featured" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="offer" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="package_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="package_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pkg_price" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="soial" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="user_t" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Plates" representedClassName=".Plates" syncable="YES">
+        <attribute name="active" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="number_plates" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="user_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="user_t" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Sellertype" representedClassName=".Sellertype" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="user_type_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="user_type_en" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Sellingpoint" representedClassName=".Sellingpoint" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="sellingpoint_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sellingpoint_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Setting" representedClassName=".Setting" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="key" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="value" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Slider" representedClassName=".Slider" syncable="YES">
+        <attribute name="created_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="image_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="image_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Transmission" representedClassName=".Transmission" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="transmission_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="transmission_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Trim" representedClassName=".Trim" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="make_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="model_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="trim_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="trim_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Users" representedClassName=".Users" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="created_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fullname_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fullname_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="header" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="notes" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="u_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="user_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="user_t" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Year" representedClassName=".Year" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="year_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="year_en" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="About" positionX="-9" positionY="135" width="128" height="195"/>
+        <element name="Bodytype" positionX="0" positionY="99" width="128" height="105"/>
+        <element name="Cars" positionX="-9" positionY="81" width="128" height="855"/>
+        <element name="Cars_Featured" positionX="-9" positionY="135" width="128" height="855"/>
+        <element name="Cars_Image" positionX="0" positionY="144" width="128" height="150"/>
+        <element name="Cars_Sellingpoint" positionX="9" positionY="153" width="128" height="120"/>
+        <element name="Colour" positionX="36" positionY="126" width="128" height="105"/>
+        <element name="Dealers" positionX="-9" positionY="135" width="128" height="255"/>
+        <element name="Garage" positionX="0" positionY="144" width="128" height="855"/>
+        <element name="Make" positionX="-63" positionY="-18" width="128" height="105"/>
+        <element name="Mileage" positionX="-18" positionY="72" width="128" height="135"/>
+        <element name="Model" positionX="-63" positionY="9" width="128" height="120"/>
+        <element name="Packages" positionX="-9" positionY="135" width="128" height="225"/>
+        <element name="Plates" positionX="-9" positionY="135" width="128" height="180"/>
+        <element name="Sellertype" positionX="-9" positionY="81" width="128" height="105"/>
+        <element name="Sellingpoint" positionX="0" positionY="90" width="128" height="105"/>
+        <element name="Setting" positionX="9" positionY="99" width="128" height="105"/>
+        <element name="Slider" positionX="0" positionY="144" width="128" height="180"/>
+        <element name="Transmission" positionX="18" positionY="108" width="128" height="105"/>
+        <element name="Trim" positionX="-54" positionY="36" width="128" height="135"/>
+        <element name="Users" positionX="-9" positionY="135" width="128" height="255"/>
+        <element name="Year" positionX="-36" positionY="63" width="128" height="105"/>
+    </elements>
+</model>

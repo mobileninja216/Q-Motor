@@ -1,0 +1,281 @@
+homeTitle = "QMotor";
+
+connectionless = "No internet connection";
+warning = "Warnning";
+emptyFields = "Please fill all neccessry fields";
+error = "Error";
+success = "Success";
+wellDone = "Well done!";
+dataIsEmpty = "Remotly received data is empty";
+unknownError = "Unknown errorn has been occured";
+
+selectMake = "Select Make";
+selectModel = "Select Model";
+selectTrim = "Select Trim";
+selectHomeYear = "Select Year";
+selectYear = "Year";
+selectMileage = "Mileage";
+selectBodyType = "Body Type";
+selectTransmission = "Transmission";
+selectColour = "Colour";
+saveCar = "SAVE";
+dealer = "Dealer";
+qar = "QAR ";
+priceLabel = "Price";
+colourLabel = "Colour";
+useDistanceLabel = "Mileage";
+theBackLabel = "Body Type";
+carTypeLabel = "Gear Type";
+
+shareYourNote = "Share your Note";
+loginToFacebook = "You are not connected to your Facebook account.";
+shareOnFacebook = "Share on Facebook";
+loginToTwitter = "You are not connected to your Twitter account.";
+shareOnTwitter = "Share on Twitter";
+moreSocial = "More";
+closeSocialList = "Close";
+cancleButton = "Cancel";
+notAllowedString = "Not allowed characters.";
+installWhatsApp = "You must install WhatsApp firstly.";
+shareOnWhatsApp = "Share on WhatsApp";
+
+highest = "highest";
+lowest = "lowest";
+
+platesAvailable = "plates available";
+enterPlateNumber = "Enter plate number";
+plateNumber = "Plate Number";
+price = "Price";
+
+fullName = "Full Name";
+email = "Email";
+phoneNumber = "Phone Number";
+
+free = "Free";
+paid = "Paid";
+
+phone1 = "Telephone 1";
+phone2 = "Telephone 2";
+
+done = "Done";
+doneMessage = "Finally, you finished all steps";
+
+firstName = "First Name";
+lastName = "Last Name";
+welcomeLabel = "Register for your QMotor Account";
+individual = "Individual";
+companies = "Companies";
+registerButton = "Register";
+
+sellerType = "Seller Type";
+updateMyProfileTitle = "Update My Profile";
+editMyProfileDesc = "Updating your email address, phone number or postcode below will not change those details displayed in your advert. To amend any advert details, please go to Manage My Ads.";
+updateMyProfileButton = "Update My Profile";
+
+emailAddressLabel = "Email Address";
+fullNameLabel = "Full Name";
+sellerTypeLabel = "Seller Type";
+phoneNumberLabel = "Phone Number";
+myCarsSoldLabel = "My Cars Sold";
+numberPlatesLabel = "Number Plates";
+myAdvertLabel = "My Adverts";
+myProfileTitle = "My Profile";
+
+userNumberPlatesHeaderLabel = "This is a preview of your number plates that you have for sale";
+
+settingTitle = "Setting";
+allRightsReservedLabel = "All rights reserved";
+instagramAccountLabel = "Instagram Account";
+youtubeChannelLabel = "Youtube Channel";
+twitterAccountLabel = "Twitter Account";
+facebookPageLabel = "Facebook Page";
+saveSessionAfterLoginLabel = "Save session after login";
+defaultLanguageLabel = "Default Language";
+
+findNewUsedCarsLabel = "Find new & used cars";
+carsAvailableLabel = "Search in :value cars available";
+dealerCarsAvailableLabel = "cars available";
+
+carsInStockLabel = "Cars in stock";
+searchCarButton = "Search";
+zeroQARLabel = "0 QAR";
+filterTtitle = "Advanced Search";
+halfMillionQARLabel = "500,000 QAR";
+priceRangeLabel = "Price Range";
+
+
+makeTitle = "Make";
+makePrompt = "Select a car make";
+modelTitle = "Model";
+modelPrompt = "Select a car model";
+trimTitle = "Trim";
+trimPrompt = "Select a car trim";
+yearTitle = "Year";
+yearPrompt = "Select car year";
+mileageTitle = "Mileage";
+mileagePrompt = "Select car mileage";
+colourTitle = "Colour";
+colourPrompt = "Select car colour";
+transTitle = "Transmission";
+transPrompt = "Select a car transimission";
+bodyTypeTitle = "Body type";
+bodyTypePrompt = "Select a car Body type";
+
+contactUsTtitle = "Contact Us";
+sendMessageButton = "Send Message";
+
+carDealersTitle = "Car Dealers";
+highestButton = "Highest";
+lowestButton = "Lowest";
+sortDealersByLabel = "Sort by car count";
+theEndLabel = "The End";
+
+dealerCarsTitile = "Dealer Cars";
+savedLabel = "Saved";
+
+homeButton = "Home";
+buyCarButton = "Buy A Car";
+sellMyCarButton = "Sell My Car";
+rentCarButton = "Rent A Car";
+carDealers = "Car Dealers";
+myAccountButton = "My Account";
+myProfileButton = "My Profile";
+myGarageButton = "My Garage";
+myAdvertsButton = "My Adverts";
+numberPlatesButton = "Number Plates";
+contactUsButton = "Contact Us";
+settingButton = "Setting";
+aboutQmotoTraderButton = "About QMotor";
+
+buyCarTitile = "Buy A Car";
+
+viewCarTitle = "View A Car";
+shareYourNote = "Share your Note";
+shareOnTwitter = "Share on Twitter";
+loginToTwitter = "You are not logged in to your Twitter account.";
+shareOnFacebook = "Share on Facebook";
+loginToFacebook = "You are not connected to your Facebook account.";
+moreSocial = "More";
+closeSocialList = "Close";
+okay = "Ok";
+
+numberPlatesInQMTLabel = "Number Plates on QMotor";
+callSellerNowLabel = "Call Seller Now";
+numberPlatesTitle = "Number Plates";
+
+resultsFoundLabel = "results found while filtering cars";
+searchCarTitle = "Search About Car";
+
+myAccountTitle = "My Account";
+myAdvertsButton = "My Adverts";
+myNumberPlatesButton = "Number Plates";
+myProfileButton = "My Profile";
+myGarageButton = "My Garage";
+myAccountLoginButton = "Login";
+myAccountMessageLabel = "You must login firstly";
+
+myGarageTitle = "My Garage";
+deleteFromGarageButton = "Delete";
+
+userNumberPlatesLabel = "This is a preview of your number plates that you have for sale";
+userNumberPlatesTitle = "Number plates";
+
+controlItemLabel = "Control Item";
+savedCarsLabel = "Saved advers";
+liveCarsLabel = "Lived adverts";
+archivedCarsLabel = "Archived adverts";
+myAdvertsTitle = "My Adverts";
+savedAdvertText = "Saved";
+livedvertText = "Live";
+archivedAdvertText = "Archive";
+advertsIDLabel = "ID";
+makeModelLabel = "Make/Model";
+advertsLatestUpdateLabel = "Last Upadate";
+latestUpdateDelete = "Last Update/Delete";
+advertExpiredAt = "Expired at";
+
+sellMyCarTitle = "Sell My Car";
+saveAndContinue = "Save & continue";
+previous = "Previous";
+packageLabel = "Package";
+vechilceDetailsLabel = "Vehicle details";
+uploadImagesLabel = "Capture and upload images";
+uploadImagesButton = "Upload";
+previewLabel = "Preview";
+confirmLabel = "Confirm";
+completeTheCheckout = "Complete checkout";
+
+monthViews = ":month Month Online";
+socialNetwork = "Social Media";
+shareTo = "Share to";
+specialAds = "Featured Advert";
+tenTimesMore = "10 Times More Appearance";
+photoService = "Photo Service";
+photoServiceSubtitle = "We Will Take Information And Photos Of The Car";
+selectPacakge = "Select";
+packageHeaderLabel = "Package Selection";
+packageTitleLabel = " Select your QMotor package";
+packageSubtitleLabel = "Please select a package below and click Continue.";
+
+vehicleDetailsLabel = "Vehicle details";
+vehicleSubtitleLabel = "Please provide the details about the vehicle you're selling and click continue to go to the next step";
+vehicleDescriptionLabel = "The vehicle description you want to appear on your advert";
+
+onlyPreview = "O n l y   P r e v i e w";
+listPreviewHeaderLabel = "List page preview";
+listPreviewSubtitleLabel = "This is a preview of your list page online advert.";
+
+nameAndAddressLabel = "Name and address";
+dealerTypeKeyLabel = "Type:";
+vehicleDetailsKeyLabel = "Vehicle Name: ";
+expiredAtKeyLabel = "Expiry Date: ";
+totalPaymentLabel = "Total Payment";
+packageTypeKeyLabel = "Package: ";
+totalKeyLabel = "Total: ";
+
+signinAlertTitle = "Sign in to QMotor";
+signupAlertTitle = "New account in QMotor";
+signinTitle = "Sign In";
+welcomeLabel = "Welcome to QMotor account";
+signupButton = "Sign up";
+newHereLabel = "New here?";
+forgotPasswordButton = "Forgot password?";
+signinButton = "Sign in";
+signupButton = "Sign up";
+username = "Mobile No";
+password = "Password";
+
+thanksLabel = "Thanks";
+messageLabel1 = "Thank You for your purchase!. Your advert number is :advert_number";
+messageLabel2 = "Thank you for using Q Motor  We will call you soon to complete your advertisement proccess and collect the payment. Your advert will not Go online until we receive the payment";
+messageLabel3 = "Thank you for using Q Motor  We will call you within 24 hours to arrange an appointment to come to date to you take of the Vehicle details your cars";
+backToHome = "Back to home";
+
+takePicture = "Take a picture";
+cameraRoll = "Camera Roll";
+
+makeYear = "Make Year";
+mileage = "Mileage";
+
+noResults = "No results found about this search";
+saveButton = "Save";
+
+isSoldYes = "Sold";
+isSoldNo = "Unsold";
+
+year = "Year";
+km =  "km";
+
+aboutQMotor = "About QMotor";
+
+registrationMessage = "We sent you the password as an SMS, please use it to login";
+
+deleteImage = "X";
+makeImageDefault = "Make Primary";
+uploadedImagesTitle = "Edit Photos";
+defaultImage = "Primary Image";
+
+registerDone = "We sent you the password as an SMS, please use it to login to your account";
+
+customNumberPlates = "Custom Number Plates";
+signout = "Signout";
