@@ -1,8 +1,8 @@
 //
 //  PackageCollectionReusableView.swift
-//  Minao
+//  Q Motor
 //
-//  Created by Mahmood Nassar on 11/13/15.
+//  Created by StarMac on 11/13/15.
 //  Copyright © 2015 Mahmood Nassar. All rights reserved.
 //
 

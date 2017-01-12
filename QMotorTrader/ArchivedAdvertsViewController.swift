@@ -1,8 +1,8 @@
 //
 //  ArchivedAdvertsViewController.swift
-//  Minao
+//  Q Motor
 //
-//  Created by Mahmood Nassar - (+970598197338) on 9/5/15.
+//  Created by StarMac on 9/5/15.
 //  Copyright (c) 2015 Minao. All rights reserved.
 //
 

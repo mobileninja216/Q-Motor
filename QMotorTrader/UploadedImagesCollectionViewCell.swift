@@ -1,8 +1,8 @@
 //
 //  UploadedImagesCollectionViewCell.swift
-//  Minao
+//  Q Motor
 //
-//  Created by Mahmood Nassar on 1/9/16.
+//  Created by StarMac on 1/9/16.
 //  Copyright © 2016 Mahmood Nassar. All rights reserved.
 //
 
